@@ -1,0 +1,5 @@
+[
+  {"query":"How are citations represented?","relevant_chunk_ids":["citations.md::doc::0"]},
+  {"query":"What does hybrid retrieval combine?","relevant_chunk_ids":["retrieval.md::doc::0"]},
+  {"query":"Which metrics evaluate retrieval?","relevant_chunk_ids":["evaluation.md::doc::0"]}
+]
